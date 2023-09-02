@@ -1,6 +1,6 @@
 # site
 
-![image](http://www.jeanwilmotte.it/wp-content/uploads/2009/05/Drapeau-France.jpg)
+![image]()
 
 # A1-A2
 
